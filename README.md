@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Sid-techweb/Leetcode-python/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid-techweb/Leetcode-python/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -62,9 +63,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Sid-techweb/Leetcode-python/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid-techweb/Leetcode-python/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sid-techweb/Leetcode-python/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
