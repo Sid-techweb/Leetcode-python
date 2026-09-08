@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Sid-techweb/Leetcode-python/tree/main/0134-gas-station/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
