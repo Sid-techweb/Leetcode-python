@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Sid-techweb/Leetcode-python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Sid-techweb/Leetcode-python/tree/main/0146-lru-cache/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0143-reorder-list/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0148-sort-list/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
