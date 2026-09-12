@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0148-sort-list/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 <!---LeetCode Topics End-->
