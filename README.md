@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
+| [0835-image-overlap](https://github.com/Sid-techweb/Leetcode-python/tree/main/0835-image-overlap/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Sid-techweb/Leetcode-python/tree/main/0130-surrounded-regions/) | Medium |
+| [0835-image-overlap](https://github.com/Sid-techweb/Leetcode-python/tree/main/0835-image-overlap/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
