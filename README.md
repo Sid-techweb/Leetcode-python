@@ -29,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sid-techweb/Leetcode-python/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Sid-techweb/Leetcode-python/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sid-techweb/Leetcode-python/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Linked List
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sid-techweb/Leetcode-python/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Breadth-First Search
@@ -245,4 +248,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sid-techweb/Leetcode-python/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
