@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sid-techweb/Leetcode-python/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Sid-techweb/Leetcode-python/tree/main/0283-move-zeroes/) | Easy |
 | [0835-image-overlap](https://github.com/Sid-techweb/Leetcode-python/tree/main/0835-image-overlap/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sid-techweb/Leetcode-python/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Sid-techweb/Leetcode-python/tree/main/0283-move-zeroes/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
