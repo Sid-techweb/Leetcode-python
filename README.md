@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0118-pascals-triangle](https://github.com/Sid-techweb/Leetcode-python/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Sid-techweb/Leetcode-python/tree/main/0120-triangle/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
