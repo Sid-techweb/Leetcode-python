@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sid-techweb/Leetcode-python/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Sid-techweb/Leetcode-python/tree/main/0283-move-zeroes/) | Easy |
 | [0835-image-overlap](https://github.com/Sid-techweb/Leetcode-python/tree/main/0835-image-overlap/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sid-techweb/Leetcode-python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sid-techweb/Leetcode-python/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sid-techweb/Leetcode-python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Linked List
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Sid-techweb/Leetcode-python/tree/main/0146-lru-cache/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sid-techweb/Leetcode-python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sid-techweb/Leetcode-python/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sid-techweb/Leetcode-python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -276,4 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Sid-techweb/Leetcode-python/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sid-techweb/Leetcode-python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
