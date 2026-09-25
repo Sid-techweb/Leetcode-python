@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sid-techweb/Leetcode-python/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sid-techweb/Leetcode-python/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Sid-techweb/Leetcode-python/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Sid-techweb/Leetcode-python/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Sid-techweb/Leetcode-python/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Sid-techweb/Leetcode-python/tree/main/0133-clone-graph/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Sid-techweb/Leetcode-python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Sid-techweb/Leetcode-python/tree/main/0146-lru-cache/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sid-techweb/Leetcode-python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sid-techweb/Leetcode-python/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -211,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Sid-techweb/Leetcode-python/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0148-sort-list/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sid-techweb/Leetcode-python/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
