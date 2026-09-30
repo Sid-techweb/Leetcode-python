@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Sid-techweb/Leetcode-python/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sid-techweb/Leetcode-python/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Tree
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
