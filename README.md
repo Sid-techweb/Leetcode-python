@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Sid-techweb/Leetcode-python/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sid-techweb/Leetcode-python/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Sid-techweb/Leetcode-python/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sid-techweb/Leetcode-python/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Sid-techweb/Leetcode-python/tree/main/0127-word-ladder/) | Hard |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Sid-techweb/Leetcode-python/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Sid-techweb/Leetcode-python/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sid-techweb/Leetcode-python/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
