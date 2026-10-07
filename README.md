@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/Sid-techweb/Leetcode-python/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sid-techweb/Leetcode-python/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sid-techweb/Leetcode-python/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Sid-techweb/Leetcode-python/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Sid-techweb/Leetcode-python/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Sid-techweb/Leetcode-python/tree/main/0133-clone-graph/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Sid-techweb/Leetcode-python/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
