@@ -353,4 +353,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sid-techweb/Leetcode-python/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Sid-techweb/Leetcode-python/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
