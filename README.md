@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sid-techweb/Leetcode-python/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sid-techweb/Leetcode-python/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sid-techweb/Leetcode-python/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sid-techweb/Leetcode-python/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Sid-techweb/Leetcode-python/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Sid-techweb/Leetcode-python/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0137-single-number-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sid-techweb/Leetcode-python/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sid-techweb/Leetcode-python/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
