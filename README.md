@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sid-techweb/Leetcode-python/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Sid-techweb/Leetcode-python/tree/main/0283-move-zeroes/) | Easy |
 | [0835-image-overlap](https://github.com/Sid-techweb/Leetcode-python/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Sid-techweb/Leetcode-python/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sid-techweb/Leetcode-python/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sid-techweb/Leetcode-python/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sid-techweb/Leetcode-python/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Sid-techweb/Leetcode-python/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sid-techweb/Leetcode-python/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sid-techweb/Leetcode-python/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Sid-techweb/Leetcode-python/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sid-techweb/Leetcode-python/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Sid-techweb/Leetcode-python/tree/main/0133-clone-graph/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Sid-techweb/Leetcode-python/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Sid-techweb/Leetcode-python/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,12 +258,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sid-techweb/Leetcode-python/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sid-techweb/Leetcode-python/tree/main/0130-surrounded-regions/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Sid-techweb/Leetcode-python/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sid-techweb/Leetcode-python/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Sid-techweb/Leetcode-python/tree/main/0130-surrounded-regions/) | Medium |
 | [0835-image-overlap](https://github.com/Sid-techweb/Leetcode-python/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Sid-techweb/Leetcode-python/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
