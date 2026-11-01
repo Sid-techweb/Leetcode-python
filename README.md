@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Sid-techweb/Leetcode-python/tree/main/0140-word-break-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sid-techweb/Leetcode-python/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Sid-techweb/Leetcode-python/tree/main/0283-move-zeroes/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sid-techweb/Leetcode-python/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0835-image-overlap](https://github.com/Sid-techweb/Leetcode-python/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Sid-techweb/Leetcode-python/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sid-techweb/Leetcode-python/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sid-techweb/Leetcode-python/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sid-techweb/Leetcode-python/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sid-techweb/Leetcode-python/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sid-techweb/Leetcode-python/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
